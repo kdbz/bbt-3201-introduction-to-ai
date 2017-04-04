@@ -1,6 +1,6 @@
 # BBT 3201 : Introduction to Artificial Intelligence
 
-1. Week One
+* Week One
 
-Installation of SWI-Prolog
-
+  * Installation of SWI-Prolog
+    * [Getting started] (http://www.swi-prolog.org/pldoc/man?section=quickstart)
